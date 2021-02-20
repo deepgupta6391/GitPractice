@@ -7,6 +7,7 @@ public class RegisterationPage {
 	}
 	
 	public void password(){
-		username();
+
+		System.out.println("entering password");
 	}
 }
