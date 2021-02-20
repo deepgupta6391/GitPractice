@@ -2,7 +2,8 @@ package prac1;
 
 public class LoginPage {
 
-	public static void main() {
-		System.out.println("This is main");
+
+	public void m2() {
+		System.out.println("this is m2");
 	}
 }
