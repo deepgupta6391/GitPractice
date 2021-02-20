@@ -12,5 +12,6 @@ public class RegisterationPage {
 		System.out.println("entering password");
 		System.out.println("again entering password");
 		System.out.println("Password should not be spcial char");
+		
 	}
 }
