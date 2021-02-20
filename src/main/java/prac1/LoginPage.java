@@ -10,4 +10,7 @@ public class LoginPage {
 	public void main() {
 		System.out.println("this is m2");
 	}
+	public void main1() {
+		System.out.println("this is m2");
+	}
 }
