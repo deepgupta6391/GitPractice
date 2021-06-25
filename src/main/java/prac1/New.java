@@ -6,7 +6,9 @@ public class New {
 	
 
 	public void new1() {
-
+		System.out.println("new");
 
 	}
+	
+	
 }
