@@ -7,7 +7,7 @@ public class New {
 
 	public void new1() {
 
-
+		System.err.println("This is error");
 
 
 		System.err.println("This is error");
